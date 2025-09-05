@@ -15,7 +15,7 @@ const Vikup = (props) => {
   const closeSellModal = () => setIsSellModalOpen(false)
 
   const seoData = getSEOData('/vikup')
-  const baseUrl = 'https://sosamba3.vercel.app'
+  const baseUrl = 'https://lublutebya1.vercel.app'
   const serviceData = getServiceData(
     'Выкуп б/у стиральнх машин',
     'Выкупаем б/у стиральные машины в Одессе дорого. Любые марки и состояние.',

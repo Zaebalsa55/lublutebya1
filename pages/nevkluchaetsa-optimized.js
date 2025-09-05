@@ -32,7 +32,7 @@ const Page = (props) => {
   const closeModal = () => setIsModalOpen(false)
   
   const seoData = getSEOData('/nevkluchaetsa')
-  const baseUrl = 'https://sosamba3.vercel.app'
+  const baseUrl = 'https://lublutebya1.vercel.app'
   const structuredData = getProblemPageStructuredData(
     'Ремонт стиральной машины которая не включается',
     'Профессиональный ремонт стиральных машин которые не включаются в Одессе. Диагностика блока питания, ремонт у��равления.',
@@ -132,7 +132,7 @@ const Page = (props) => {
 
                   <p>
                     <strong>4. Проверьте подачу воды.</strong><br />
-                    Откройте кран подачи воды для стиральной машины и осмотрите заливной шланг: нет ли перегиба или засора на входе. Сломанный или перекрученный шланг и закрытый кран тоже остановят работу.
+                    Откройте кран подачи воды для стиральной машины и осмотрите заливной шланг: нет ли перегиба или засора на входе. Сломанный или перекрученный шланг и закрытый кран тоже оста��овят работу.
                   </p>
 
                   <p>
@@ -186,7 +186,7 @@ const Page = (props) => {
                     className="page-image38230522"
                   />
                   <span className="page-text19">
-                    <span>Электрическая щитовая</span>
+                    <span>��лектрическая щитовая</span>
                   </span>
                 </figure>
                 <p className="vicetext">

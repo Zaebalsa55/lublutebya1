@@ -15,7 +15,7 @@ const SEOHead = ({
   robots
 }) => {
   const router = useRouter()
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://sosamba3.vercel.app'
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://lublutebya1.vercel.app'
   const currentUrl = `${baseUrl}${router.asPath}`
 
   // Значения по умолчанию

@@ -9,13 +9,13 @@
 NEXT_PUBLIC_GA_ID=G-XXXXXXXXXX
 
 # Production Domain (замените на ваш домен)
-NEXT_PUBLIC_DOMAIN=https://sosamba3.vercel.app
+NEXT_PUBLIC_DOMAIN=https://lublutebya1.vercel.app
 ```
 
 ## Как получить Google Analytics ID:
 
 1. Идите на https://analytics.google.com
-2. Нажмите "Начать" или войдите в аккаунт
+2. Нажмите "Начать" или войдите в а��каунт
 3. Создайте новое свойство
 4. Выберите "Веб" 
 5. Введите название сайта: "РемСтирМаш - Ремонт стиральных машин"

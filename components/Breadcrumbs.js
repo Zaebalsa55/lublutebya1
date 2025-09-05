@@ -48,7 +48,7 @@ const Breadcrumbs = ({ customItems = null, style = 'default', className = '' }) 
     const generalArticles = {
       '/jirniepyatna': 'Как избавиться от жирных пятен на одежде',
       '/jvachka': 'Как самостоятельно удалить жвачку с одежды',
-      '/vlapalisvkrov': 'Как удалить пятна крови с одежды',
+      '/vlapalisvkrov': 'Как уда��ить пятна крови с одежды',
       '/puhovik': 'Как правильно стирать пуховик'
     }
 
@@ -62,7 +62,7 @@ const Breadcrumbs = ({ customItems = null, style = 'default', className = '' }) 
 
   const breadcrumbs = getBreadcrumbs()
 
-  const baseUrl = 'https://sosamba3.vercel.app'
+  const baseUrl = 'https://lublutebya1.vercel.app'
   const itemListElement = breadcrumbs.map((item, index) => ({
     '@type': 'ListItem',
     position: index + 1,

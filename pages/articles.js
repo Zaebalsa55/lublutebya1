@@ -37,14 +37,14 @@ const Articles = (props) => {
   ]
 
   const generalArticles = [
-    { title: 'Как избавиться от жирных пятен на одежде в домашних условиях?', href: '/jirniepyatna', description: 'Практическая инструкция по удалению жирных пятен с разных тканей в домашних условиях', image: '/100x100/jir.png' },
+    { title: 'Как избавиться от жирных пятен на одежде в домашних условиях?', href: '/jirniepyatna', description: 'Практическая инструкция по удалению жирных пятен с разных тк��ней в домашних условиях', image: '/100x100/jir.png' },
     { title: 'Как самостоятельно удалить жвачку с одежды?', href: '/jvachka', description: 'Пошаговые способы и лайфхаки удаления застывшей жвачки с ткани', image: '/100x100/jvanik.png' },
     { title: 'Как удалить пятна крови с одежды без следов?', href: '/vlapalisvkrov', description: 'Советы по быстрому и безопасному выведению пятен крови', image: '/100x100/krov.png' },
     { title: 'Ка�� правильно стирать пуховик в автоматической стиральной машине?', href: '/puhovik', description: 'Руководство по стирке пуховиков: подготовка, выбор режима и моющего средства', image: '/100x100/puhovik.png' }
   ]
 
   const seoData = getSEOData('/articles')
-  const baseUrl = 'https://sosamba3.vercel.app'
+  const baseUrl = 'https://lublutebya1.vercel.app'
 
   return (
     <>
