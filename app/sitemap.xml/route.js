@@ -51,6 +51,7 @@ ${urlEntries}
     headers: {
       'Content-Type': 'application/xml; charset=UTF-8',
       'Cache-Control': 'public, max-age=0, must-revalidate',
+      'X-Sitemap-Source': 'route'
     },
   })
 }
