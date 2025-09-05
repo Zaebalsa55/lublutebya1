@@ -10,8 +10,8 @@ export const getLocalBusinessData = (currentUrl = '') => {
     "url": currentUrl,
     "telephone": "+380984671352",
     "email": "remstirmash@gmail.com",
-    "image": "https://sosamba3.vercel.app/logo.jpg",
-    "logo": "https://sosamba3.vercel.app/logo.jpg",
+    "image": "https://lublutebya1.vercel.app/logo.jpg",
+    "logo": "https://lublutebya1.vercel.app/logo.jpg",
     "priceRange": "$$",
     "paymentAccepted": "наличные, банковская карта",
     "currenciesAccepted": "UAH",
@@ -179,8 +179,8 @@ export const getOrganizationData = () => {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "РемСтирМаш",
-    "url": "https://sosamba3.vercel.app",
-    "logo": "https://sosamba3.vercel.app/logo.jpg",
+    "url": "https://lublutebya1.vercel.app",
+    "logo": "https://lublutebya1.vercel.app/logo.jpg",
     "contactPoint": [
       {
         "@type": "ContactPoint",
