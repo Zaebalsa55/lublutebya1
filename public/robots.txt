@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://lublutebya1.vercel.app/sitemap.xml
+Sitemap: https://lublutebya1.vercel.app/sitemap-main.xml
